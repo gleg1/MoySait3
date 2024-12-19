@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+header a{
+  text-decoration: none
+}
+header{
+  background-color: burlywood;
+  padding: 5px;
+}
+h1{
+  text-align: center;
+  color: rgb(0, 255, 191);
+  background-color: blue;
+}
